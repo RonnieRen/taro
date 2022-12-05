@@ -42,7 +42,7 @@
     "metro-cache": "^0.66.2",
     "metro-config": "^0.66.2",
     "metro-core": "^0.66.2",
-    "metro-react-native-babel-transformer": "^0.66.2",
+    "metro-react-native-babel-transformer": "^0.73.4",
     "metro-resolver": "^0.66.2",
     "mime-types": "^2.1.27",
     "qrcode-terminal": "^0.12.0"
